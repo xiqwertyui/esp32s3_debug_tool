@@ -38,6 +38,9 @@ Backtrace: 0x403785da:0x3fcaffd0 0x4037e4d5:0x3fcafff0 0x40385025:0x3fcb0010 0x4
 
 === Backtrace Decoded ===
 0x403785da: [Function A] at [SourceFile1]:[LineNumber]
+
 0x4037e4d5: [Function B] at [SourceFile2]:[LineNumber]
+
 0x40385025: [Function C] at [SourceFile3]:[LineNumber]
+
 ...
